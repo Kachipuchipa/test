@@ -5,5 +5,7 @@ public class Main {
         System.out.println("test1");
         System.out.println("변경이 됬을까요??");
         System.out.println("변경이 됬을까요??2");
+        System.out.println("브랜치테스트 2");
+
     }
 }
