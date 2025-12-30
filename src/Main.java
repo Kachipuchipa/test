@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("test1");
         System.out.println("변경이 됬을까요??");
+        System.out.println("변경이 됬을까요??2");
     }
 }
